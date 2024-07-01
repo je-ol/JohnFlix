@@ -1,0 +1,27 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/home/jessica_olivares/becode/react/22-The-JohnFlix-Project-je-ol"
+publishOrigin = "default"
+command = "vite build"
+commandOrigin = "heuristics"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
